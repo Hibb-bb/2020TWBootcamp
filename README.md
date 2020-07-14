@@ -1,12 +1,11 @@
 # 2020TWBootcamp
 
-- SamHsia
-=======
-
-* Added by ChengHan
 ## Members
 penguinwang
 Dennis Wu
+SamHsia
+ChengHan
+
 =======
 
 
